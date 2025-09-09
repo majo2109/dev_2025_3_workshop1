@@ -1,3 +1,5 @@
+import random
+
 class Games:
     def piedra_papel_tijera(self, jugador1, jugador2):
         jugador1 = jugador1.lower()
