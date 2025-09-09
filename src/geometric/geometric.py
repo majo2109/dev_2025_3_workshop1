@@ -120,7 +120,7 @@ class Geometria:
         Calcula el volumen de una esfera.
         
         """
-        return (4/3)3.1416(radio**3)
+        return (4/3)*3.1416*(radio**3)
     
     def area_superficie_esfera(self, radio):
         """
